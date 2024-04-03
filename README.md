@@ -7,4 +7,4 @@ Dm borzxy at Discord
 # Why reupload
 My main account BorzXy was got Terminated
 
-https://github.com/BorzXys/EcoScanner/blob/main/Screenshot.png
+![Screenshot](https://github.com/BorzXys/EcoScanner/blob/main/Screenshot.png)
