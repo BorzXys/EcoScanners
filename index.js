@@ -1,1 +1,1 @@
-//Source code at upload.rar
+//Project move to https://github.com/BorzXy/EcoScanner/
