@@ -1,3 +1,6 @@
+# MOVE TO MAIN ACCOUNT
+https://github.com/BorzXy/EcoScanner
+
 # EcoScanner
 Economy Scanner for Growtopia Private Server
 
